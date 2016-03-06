@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAQ,mCAA2B;ACAnC,iBAAkB;EACjB,gBAAgB,EAAE,KAAK",
+"sources": ["../sass/app.scss","../js/app/templates/styles/welcome.scss"],
+"names": [],
+"file": "app.css"
+}
